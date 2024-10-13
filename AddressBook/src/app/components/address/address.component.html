@@ -1,0 +1,16 @@
+<div class="address-container">
+  <h1 class="title">Address Book</h1>
+  <hr class="delimiter">
+
+  <div *ngIf="errorMessage" class="error-message">{{ errorMessage }}</div>
+
+  <div class="contact-list">
+    <div
+      *ngFor="let contact of contacts"
+      class="contact-card"
+      (click)="openAddressDialog(contact)"
+    >
+      <strong>{{ contact.name }}</strong>
+    </div>
+  </div>
+</div>

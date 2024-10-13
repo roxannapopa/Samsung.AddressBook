@@ -1,0 +1,37 @@
+[
+  {
+    "Id": 1,
+    "Name": "Donald Duck",
+    "Address": "13 Quack street, Duckburg, Calisota"
+  },
+  {
+    "Id": 2,
+    "Name": "Homer Simpson",
+    "Address": "742 Evergreen Terrace"
+  },
+  {
+    "Id": 3,
+    "Name": "SpongeBob SquarePants",
+    "Address": "124 Conch Street, Bikini Bottom"
+  },
+  {
+    "Id": 4,
+    "Name": "Sherlock Holmes",
+    "Address": "221B Baker St., London"
+  },
+  {
+    "Id": 5,
+    "Name": "Joe Biden",
+    "Address": "1600 Pennsylvania Avenue NW in Washington, D.C"
+  },
+  {
+    "Id": 6,
+    "Name": "John Doe",
+    "Address": "123 Sunset Boulevard, Los Angeles"
+  },
+  {
+    "Id": 7,
+    "Name": "Jane Doe",
+    "Address": "456 Fifth Avenue, New York"
+  }
+]

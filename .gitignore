@@ -1,0 +1,14 @@
+# Ignore Visual Studio files
+.vs/
+
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore node_modules for Angular
+node_modules/
+
+# Ignore package-lock.json if you are using yarn
+package-lock.json
+
+# Ignore any other files you don't want to include
